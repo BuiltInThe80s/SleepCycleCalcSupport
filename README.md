@@ -12,7 +12,7 @@ If you have any issues, questions, or feedback about Sleep Cycle Calc, please ge
 We aim to respond to all messages within 2 working days.
 
 **Email Support:**  
-📧 [support@sleepcyclecalc.com](mailto:support@sleepcyclecalc.com)
+📧 [support.azcloud@proton.me](mailto:support.azcloud@proton.me)
 
 ---
 
@@ -25,9 +25,9 @@ A: No. The app works instantly without sign-up.
 A: No. Sleep Cycle Calc does not collect, store, or share any personal data.
 
 **Q: Where can I read the Privacy Policy?**  
-A: You can view it here: [Privacy Policy](<YOUR-PRIVACY-POLICY-URL>)
+A: You can view it here: [Privacy Policy](https://www.freeprivacypolicy.com/live/832c73e6-dc5b-4008-904c-5a4b32f10c9b)
 
 ---
 
 ## Contact Us
-If your question isn’t answered above, email us at [support@sleepcyclecalc.com](mailto:support@sleepcyclecalc.com) and we’ll be happy to help.
+If your question isn’t answered above, email us at [support.azcloud@proton.me](mailto:support.azcloud@proton.me) and we’ll be happy to help.
