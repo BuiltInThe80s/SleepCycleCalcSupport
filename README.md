@@ -30,4 +30,4 @@ A: You can view it here: [Privacy Policy](https://www.freeprivacypolicy.com/live
 ---
 
 ## Contact Us
-If your question isn’t answered above, email us at [support.azcloud@proton.me](mailto:support.azcloud@proton.me) and we’ll be happy to help.
+If your question isn’t answered above, email us at [az-cloud.co.uk@proton.me](mailto:az-cloud.co.uk@proton.me) and we’ll be happy to help.
