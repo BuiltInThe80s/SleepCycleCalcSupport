@@ -12,7 +12,7 @@ If you have any issues, questions, or feedback about Sleep Cycle Calc, please ge
 We aim to respond to all messages within 2 working days.
 
 **Email Support:**  
-📧 [support.azcloud@proton.me](mailto:support.azcloud@proton.me)
+📧 [az-cloud.co.uk@proton.me](mailto:az-cloud.co.uk@proton.me)
 
 ---
 
